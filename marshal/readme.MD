@@ -1,2 +1,2 @@
-Send functions over TCP
-functions write to disk
+Send functions over TCP  
+Functions write to disk
